@@ -1,0 +1,9 @@
+body{
+    background-image: url("../images/concrete_seamless.png");
+    
+}
+
+.jumbotron{
+    background-color: chocolate;
+    color: white;    
+}
